@@ -1,16 +1,40 @@
-### Hi there 👋
+# 06-2021
 
-<!--
-**KristofersP/KristofersP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Kristofers Pētersons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|                                                                                        | Apstiprināts |
+| -------------------------------------------------------------------------------------- | ------------ |
+| [LinkedIn](https://www.linkedin.com/in/kristofers-petersons/)                          | ✅           |
+| [Github](https://github.com/KristofersP)                                               | ✅           |
+| CV                                                                                     | ❌           |
+
+---
+
+## Mans progress (atjaunot pirms iknedēļas tikšanās)
+
+<details><summary>👉 Norādījumi</summary>
+<p>
+Jaunus ierakstus pievieno augšpusē, vecos ierakstus nedzēs.
+
+`Nosūtīto pieteikumu skaits` - nosūtīto pieteikumu skaits kopš pēdējās tikšanās.
+
+</p>
+</details>
+
+| Datums     | Nosūtīto pieteikumu skaits |
+| ---------- | -------------------------- |
+
+
+### Pēdējās trīs vakances kurām nosūtīts pieteikums
+
+### Pēdējie trīs Github projekti
+
+- https://github.com/KristofersP/FlightPlanner
+- https://github.com/KristofersP/sql-training
+- https://github.com/KristofersP/C-sharp-syllabus
+
+---
+
+## Darba meklējumi (atjaunot pēc katra notikuma)
+
